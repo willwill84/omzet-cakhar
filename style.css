@@ -1,0 +1,12 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+li.list-group-item span {
+  margin-right: 15;
+}
+
+span.js-amount:hover:before {
+  content: "Clear ";
+}
